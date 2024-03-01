@@ -4,7 +4,7 @@ Ensure you have a modern web browser (e.g., Chrome, Firefox, or Edge).
 Familiarity with basic HTML, CSS, and JavaScript concepts.
 Installation:
 Clone this repository:
-git clone https://github.com/Rameshkumar18/snake-game2.git
+git clone https://github.com/Rameshkumar1803/snake-game2.git
 
 Open the project folder:
 cd snake-game
@@ -30,6 +30,6 @@ Enhance the visual design.
 Acknowledgments
 Inspired by the classic Snake game.
 Author
-Rameshkumar18
-GitHub: Rameshkumar18
-Feel free to add more details, customize the styling, and make it uniquely yours! Happy coding! 🐍🎮
+Ramesh Kumar
+GitHub: Rameshkumar1803
+Happy coding! 🐍🎮
